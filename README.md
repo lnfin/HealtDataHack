@@ -41,6 +41,7 @@ We tried different types of Ensembles (MaxProb, MinProb, MeanProb) and Simple Av
   - datagenerator.py - module for preparing data for training
   - dataset.py - module for preparing data for training
 
+Additional data:
 [train data](https://drive.google.com/file/d/1erA0TiUZb2os-QJ-vFN_K1bhNBroBLpO/view),
 [test data](https://drive.google.com/file/d/1NUQjp10RmymKohg0cjqL6G3fRk_DpVsH/view),
 [weights](https://drive.google.com/drive/folders/1561kJfurS61cxtOjkpOh0-6pmhNPXPiW?usp=sharing), 
