@@ -1,4 +1,4 @@
-# Health-Data-Hack
+# Health Data Hack
 
 ## Introduction
 This is our team’s 4th place solution for [Healt Data Hack](https://codenrock.com/contests/hackhealth#/) (second task). This contest was about segmentation of colorectal cancer cells on high resolution histological slices. Competition data was prepared by MIPT University, medtech.moscow and Phystech School of Biological and Medical Physics.
