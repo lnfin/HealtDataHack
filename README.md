@@ -41,8 +41,6 @@ We tried different types of Ensembles (MaxProb, MinProb, MeanProb) and Simple Av
   - datagenerator.py - module for preparing data for training
   - dataset.py - module for preparing data for training
 
-Solution of 2 task [health data hack](https://codenrock.com/contests/hackhealth#/)
-To use model, download configs and weights, after this open Test.ipynb and run all of cells. All data could be downloaded from Google Drive.
 [train data](https://drive.google.com/file/d/1erA0TiUZb2os-QJ-vFN_K1bhNBroBLpO/view),
 [test data](https://drive.google.com/file/d/1NUQjp10RmymKohg0cjqL6G3fRk_DpVsH/view),
 [weights](https://drive.google.com/drive/folders/1561kJfurS61cxtOjkpOh0-6pmhNPXPiW?usp=sharing), 
